@@ -5,6 +5,13 @@ GraphQL provides an approach to developing web APIs and has been compared and co
 
 This is Graph QL learning project from tutorials of net ninja.
 
+### Technology used
+* ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 Please Refer this [tutorials](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f).
+
+### Acknowledge
 
 **Note: This is not my own project this is from the net ninja tutorials**
