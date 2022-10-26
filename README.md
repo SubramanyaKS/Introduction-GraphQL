@@ -12,4 +12,6 @@ This is Graph QL learning project from tutorials of net ninja.
 
 Please Refer this [tutorials](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f).
 
+### Acknowledge
+
 **Note: This is not my own project this is from the net ninja tutorials**
